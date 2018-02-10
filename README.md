@@ -1,6 +1,6 @@
 # Automatic-Number-Plate-Recognition
 
-**Python packages used**__
+**Python packages used** <br />
 1. numpy
 2. scipy
 3. skimage
