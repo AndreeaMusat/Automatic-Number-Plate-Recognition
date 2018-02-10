@@ -19,4 +19,6 @@ output/result_in*.txt -> recognized chars and their probabilities
 **Remarks** <br />
 1. Only image processing and basic computer vision approaches have been used (+ knn classifier for digits/chars), so the script is not reliable in real life situations
 2. If the licence plate is either too big or too small, it might not be recognized at all, as the script is discarding them if they do not fit in certain size limits.
+3. Half of the input data is taken from: https://github.com/andela-foladeji/License-Plate-Recognition-Nigerian-vehicles 
+the other half was manually collected by me.
 
