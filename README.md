@@ -13,7 +13,7 @@ unzip data.zip
 python3 main.py input/in*.jpg
 
 **Output:** <br />
-output/detected_in*.png -> bounding boxes for the licence plate characters
+output/detected_in*.png -> bounding boxes for the licence plate characters <br />
 output/result_in*.txt -> recognized chars and their probabilities
 
 **Remarks** <br />
